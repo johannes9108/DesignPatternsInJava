@@ -1,4 +1,4 @@
-package structural.printer;
+package structural.bridge.printer;
 
 
 import java.sql.Connection;

@@ -1,4 +1,4 @@
-package structural.printer;
+package structural.bridge.printer;
 
 public class BridgeDemo {
 
